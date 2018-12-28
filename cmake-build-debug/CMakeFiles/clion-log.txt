@@ -1,0 +1,4 @@
+/home/mmc-wy/深圳学习资料/clion/clion-2018.2.5/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/mmc-wy/cv_code/sauvola
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mmc-wy/cv_code/sauvola/cmake-build-debug

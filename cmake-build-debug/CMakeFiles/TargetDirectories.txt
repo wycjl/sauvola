@@ -1,0 +1,3 @@
+/home/mmc-wy/cv_code/sauvola/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mmc-wy/cv_code/sauvola/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mmc-wy/cv_code/sauvola/cmake-build-debug/CMakeFiles/sauvola.dir
